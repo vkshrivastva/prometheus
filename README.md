@@ -1,2 +1,2 @@
 # prometheus
-This repository will contain all the prometheus related stuff like installation, setup, configuration, monitoring
+This repository will contain all the Prometheus-related stuff like installation, setup, configuration, monitoring
